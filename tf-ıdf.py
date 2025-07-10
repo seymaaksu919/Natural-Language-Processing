@@ -1,7 +1,3 @@
-#TF-IDF
-
-
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd 
 import numpy as np
@@ -12,8 +8,6 @@ import numpy as np
 documents = ["Kedi çok tatlı bir hayvandır." ,
              "kedi ve köpekler çok tatlı hayvanlardır",
              "Arılar bal üretirler"]
-
-
 
 tfidf_vectorizer= TfidfVectorizer()
 

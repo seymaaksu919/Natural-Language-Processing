@@ -1,5 +1,3 @@
-# 📚 NLP (Doğal Dil İşleme) Örnekleri
-
 ## 🚀 Doğal Dil İşleme Nedir?
 
 **Doğal Dil İşleme (NLP)**, insan dilini bilgisayarların anlayabileceği, işleyebileceği ve analiz edebileceği şekilde modelleyen yapay zekâ alanıdır. NLP sayesinde metin ve konuşma verileri anlamlandırılır, sınıflandırılır ve otomatikleştirilir.  
